@@ -10,6 +10,6 @@ Minimalistic Design: The user interface mimics the look and feel of the Udemy ho
 No JavaScript: This project is purely front-end, relying on HTML and CSS for structure and styling.
 
 Technologies Used
-HTML5
 
+HTML5
 CSS3 (Flexbox)
